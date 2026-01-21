@@ -6,7 +6,7 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm sdl2 sdl12-compat
+pacman -Syu --noconfirm sdl2 sdl12-compat pipewire-audio
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
