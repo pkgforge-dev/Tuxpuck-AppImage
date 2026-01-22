@@ -15,8 +15,7 @@ export DEPLOY_OPENGL=1
 
 # Deploy dependencies
 quick-sharun /usr/bin/tuxpuck \
-             /usr/share/pixmaps/tuxpuck* \
-             /usr/lib/libdecor*.so*
+             /usr/share/pixmaps/tuxpuck*
 
 # Turn AppDir into AppImage
 quick-sharun --make-appimage
