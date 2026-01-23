@@ -4,7 +4,7 @@
 [![CI Build Status](https://github.com//pkgforge-dev/Tuxpuck-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/Tuxpuck-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flathub/org.debian.TuxPuck/refs/heads/master/tuxpuck-128.png" width="128" />
+  <img src="tuxpuck.png" width="128" />
 </p>
 
 * [Latest Stable Release](https://github.com/pkgforge-dev/Tuxpuck-AppImage/releases/latest)
