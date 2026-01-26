@@ -1,3 +1,5 @@
+<div align="center">
+
 # Tuxpuck AppImage 🐧
 
 [![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/Tuxpuck-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/Tuxpuck-AppImage/releases/latest)
@@ -8,7 +10,11 @@
   <img src="tuxpuck.png" width="128" />
 </p>
 
-* [Upstream URL](https://wiki.debian.org/Games/TuxPuck)
+| Latest Stable Release | Upstream URL |
+| :---: | :---: |
+| [Click here](https://github.com/pkgforge-dev/Tuxpuck-AppImage/releases/latest) | [Click here](https://wiki.debian.org/Games/TuxPuck) |
+
+</div>
 
 ---
 
